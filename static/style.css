@@ -1,5 +1,6 @@
 body {
-	background-color: #d2d2d2;
+	background-color: #ffffff;
+	font-family: monospace;
 }
 
 .status-container-container {
@@ -162,7 +163,7 @@ body {
 textarea {
 	padding: 4px;
 	font-size: 11pt;
-	font-family: initial;
+	font-family: monospace;
 }
 
 .post-content {
